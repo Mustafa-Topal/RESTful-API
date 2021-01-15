@@ -1,2 +1,2 @@
-# todoListApi
-RESTful todoListApi
+# RESTful API
+RESTful API
